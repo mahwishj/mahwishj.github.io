@@ -1,0 +1,65 @@
+body {
+	font-family: 'PT Sans', sans-serif;
+	color: #FFFAFA;
+	padding: 10px;
+	background-color:#190009 ;
+	
+}
+
+.name{
+	
+	color:#A88994;
+	font-size:30pt;
+	font-weight:normal;
+
+}
+
+div.abtpara{
+	background-color:white ;
+	padding: 30px;
+	padding-left:2em;
+	font-size:15pt;
+	color:#190009 
+}
+
+.about{
+	text-align:left; 
+	color:#A88994;
+	display:inline; 
+	margin-right:30px;
+	text-shadow: 2px 2px 7px #000000;
+
+	
+}
+.blog{
+	text-align:left; 
+	color:#A88994;
+	display:inline; 
+	margin-right:30px;
+	text-shadow: 2px 2px 7px #000000;
+	
+}
+.portf{
+	text-align:left; 
+	color:#A88994;
+	display:inline; 
+	margin-right:30px;
+	text-shadow: 2px 2px 7px #000000;
+	
+	
+}
+
+
+
+a:link{
+	color:#A88994;
+	text-decoration:none;
+}
+
+a:visited{
+	color:#A88994;
+}
+
+a:hover{
+	color:#8A754F;
+}
