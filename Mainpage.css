@@ -1,0 +1,79 @@
+body {
+	font-family: 'PT Sans', sans-serif;
+	color: #FFFAFA;
+	padding: 10px;
+	background-color:#FFFAFA;
+}
+h1 {
+	font-size:72pt;
+	line-height:0.7em;
+	letter-spacing: 0.2em;
+	text-align:left;
+}
+
+p {
+	font-size:20pt;
+	font-weight:normal;
+	letter-spacing:0.025em;
+	text-align:left;
+	padding-right:40px;
+	/*color:rgb(0,0,0);*/
+}	
+
+
+
+b{
+	color:#A88994;
+	text-shadow: 2px 2px 7px #000000;
+}
+
+
+.page{
+	/*border: 5px solid #665544;*/
+	background-color:#190009 ;
+	padding: inherit;
+	padding-left:2em;
+	
+}
+
+
+.about{
+	text-align:left; 
+	color:#A88994;
+	display:inline; 
+	margin-right:30px;
+	text-shadow: 2px 2px 7px #000000;
+	
+}
+.blog{
+	text-align:left; 
+	color:#A88994;
+	display:inline; 
+	margin-right:30px;
+	text-shadow: 2px 2px 7px #000000;
+}
+.portf{
+	text-align:left; 
+	color:#A88994;
+	display:inline; 
+	margin-right:30px;
+	text-shadow: 2px 2px 7px #000000;
+	
+}
+
+
+
+
+a:link{
+	color:#A88994;
+	text-decoration:none;
+}
+
+a:visited{
+	color:#A88994;
+}
+
+a:hover{
+	color:#8A754F;
+}
+
