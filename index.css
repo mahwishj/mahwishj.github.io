@@ -9,23 +9,33 @@ h1 {
 	line-height:0.7em;
 	letter-spacing: 0.2em;
 	text-align:left;
+	color:#F1E2E2;
+	
+}
+
+h3{
+	font-size: 130%
 }
 
 p {
-	font-size:20pt;
-	font-weight:normal;
+	font-size:25pt;
+	font-weight:bold;
 	letter-spacing:0.025em;
 	text-align:left;
 	padding-right:40px;
-	/*color:rgb(0,0,0);*/
+	max-width:620px;
+	color:#A9A9A9
+	
+	/*color:rgb(0,0,0);A88994*/
 }	
 
 
 
 b{
-	color:#A88994;
+	color:#9E6E7F;
 	text-shadow: 2px 2px 7px #000000;
 }
+
 
 
 .page{
@@ -34,12 +44,13 @@ b{
 	padding: inherit;
 	padding-left:2em;
 	
+	
 }
 
 
-.about{
+.home{
 	text-align:left; 
-	color:#A88994;
+	color:#582738;
 	display:inline; 
 	margin-right:30px;
 	text-shadow: 2px 2px 7px #000000;
@@ -47,30 +58,34 @@ b{
 }
 .blog{
 	text-align:left; 
-	color:#A88994;
+	color:#9E6E7F;
 	display:inline; 
 	margin-right:30px;
 	text-shadow: 2px 2px 7px #000000;
 }
 .portf{
 	text-align:left; 
-	color:#A88994;
+	color:#9E6E7F;
 	display:inline; 
 	margin-right:30px;
 	text-shadow: 2px 2px 7px #000000;
 	
 }
 
-
+img{
+	display:inline;
+	margin-right:30px;
+	
+}
 
 
 a:link{
-	color:#A88994;
+	color:#9E6E7F;
 	text-decoration:none;
 }
 
 a:visited{
-	color:#A88994;
+	color:#9E6E7F;
 }
 
 a:hover{

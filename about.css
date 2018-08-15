@@ -8,23 +8,28 @@ body {
 
 .name{
 	
-	color:#A88994;
+	color:#9E6E7F;
 	font-size:30pt;
 	font-weight:normal;
 
 }
 
 div.abtpara{
-	background-color:white ;
+	background-color:#FFFAFA;
 	padding: 30px;
 	padding-left:2em;
 	font-size:15pt;
 	color:#190009 
+
 }
 
-.about{
+.tabs{
+	margin:20px;
+}
+
+.home{
 	text-align:left; 
-	color:#A88994;
+	color:#9E6E7F;
 	display:inline; 
 	margin-right:30px;
 	text-shadow: 2px 2px 7px #000000;
@@ -33,7 +38,7 @@ div.abtpara{
 }
 .blog{
 	text-align:left; 
-	color:#A88994;
+	color:#9E6E7F;
 	display:inline; 
 	margin-right:30px;
 	text-shadow: 2px 2px 7px #000000;
@@ -41,23 +46,22 @@ div.abtpara{
 }
 .portf{
 	text-align:left; 
-	color:#A88994;
+	color:#9E6E7F;
 	display:inline; 
 	margin-right:30px;
 	text-shadow: 2px 2px 7px #000000;
-	
 	
 }
 
 
 
 a:link{
-	color:#A88994;
+	color:#9E6E7F;
 	text-decoration:none;
 }
 
 a:visited{
-	color:#A88994;
+	color:#9E6E7F;
 }
 
 a:hover{
