@@ -25,10 +25,8 @@ p {
 	padding-right:40px;
 	max-width:620px;
 	color:#A9A9A9
-	
 	/*color:rgb(0,0,0);A88994*/
 }	
-
 
 
 b{
@@ -37,46 +35,94 @@ b{
 }
 
 
+.myface{
+	max-width:90%;
+	height:auto;
+	width:auto\9;
+	
+}
 
 .page{
-	/*border: 5px solid #665544;*/
+	/*border: 5px solid #665544;*/	
+
 	background-color:#190009 ;
 	padding: inherit;
-	padding-left:2em;
+	padding-left:2em;	
+
+}
+
+/*diff parts of page*/
+.experience{
+	background-color:#582738;
+	padding: inherit;
+	padding-left:2em;	
 	
 	
 }
+
+.blog{
+	background-color:#794558;
+	padding: inherit;
+	padding-left:2em;	
+	
+	
+}
+
+
+.tabs{
+	float:right;
+	/*font-size:300%;*/
+	font-size:4vw;
+	
+}
+
 
 
 .home{
-	text-align:left; 
+	
+	positin:absolute;
+	top:100px;
+	left:900px;
+
+	text-align:right; 
 	color:#582738;
-	display:inline; 
+	
 	margin-right:30px;
 	text-shadow: 2px 2px 7px #000000;
 	
 }
-.blog{
-	text-align:left; 
-	color:#9E6E7F;
-	display:inline; 
-	margin-right:30px;
-	text-shadow: 2px 2px 7px #000000;
-}
-.portf{
-	text-align:left; 
-	color:#9E6E7F;
-	display:inline; 
-	margin-right:30px;
-	text-shadow: 2px 2px 7px #000000;
+.blg{
 	
+	positin:absolute;
+	top:100px;
+	left:900px;
+	
+	text-align:right; 
+	color:#9E6E7F;
+
+	margin-right:30px;
+	text-shadow: 2px 2px 7px #000000;
 }
+.exp{
+	
+	positin:absolute;
+	top:100px;
+	left:900px;
+	
+	text-align:right; 
+	color:#9E6E7F;
+
+	margin-right:30px;
+	text-shadow: 2px 2px 7px #000000;
+}
+
+
 
 img{
 	display:inline;
-	margin-right:30px;
-	
+	margin-right:50px;	
 }
+
 
 
 a:link{
@@ -89,6 +135,32 @@ a:visited{
 }
 
 a:hover{
-	color:#8A754F;
+	color:#582738;
 }
+
+
+.btt{
+	font-size:20px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
