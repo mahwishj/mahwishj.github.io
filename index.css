@@ -3,6 +3,7 @@ body {
 	color: #FFFAFA;
 	padding: 10px;
 	background-color:#FFFAFA;
+	
 }
 h1 {
 	font-size:72pt;
@@ -35,6 +36,7 @@ b{
 }
 
 
+
 .myface{
 	max-width:90%;
 	height:auto;
@@ -46,6 +48,7 @@ b{
 	/*border: 5px solid #665544;*/	
 
 	background-color:#190009 ;
+	
 	padding: inherit;
 	padding-left:2em;	
 
@@ -53,15 +56,15 @@ b{
 
 /*diff parts of page*/
 .experience{
-	background-color:#582738;
+	background-color:#794558;
 	padding: inherit;
 	padding-left:2em;	
 	
 	
 }
 
-.blog{
-	background-color:#794558;
+.skills{
+	background-color:#582738;
 	padding: inherit;
 	padding-left:2em;	
 	
@@ -91,7 +94,7 @@ b{
 	text-shadow: 2px 2px 7px #000000;
 	
 }
-.blg{
+.sklls{
 	
 	positin:absolute;
 	top:100px;
@@ -122,6 +125,17 @@ img{
 	display:inline;
 	margin-right:50px;	
 }
+
+li{
+	font-size: 170%;
+	list-style-type:none;
+	color:#C0C0C0;
+}
+
+strong{
+	color:#A07A88;
+}
+
 
 
 
