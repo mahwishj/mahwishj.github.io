@@ -158,11 +158,31 @@ a:hover{
 	
 }
 
+.text{
+	font-size: 170%;
+	font-weight:normal;
+	letter-spacing:0.025em;
+	text-align:left;
+	max-width:370px;
+	color:#C0C0C0;
+	margin-bottom:30px;
+	display:inline-block;
+
+}
+
+.activity{
+	display:inline-table;
+	align:top;
+	width:370px;
+	height:400px;
+	margin-right:100px;
+
+}
 
 
-
-
-
+span{
+	color:FFFAFA;
+}
 
 
 
