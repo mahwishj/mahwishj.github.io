@@ -18,7 +18,7 @@ h3{
 	font-size: 130%
 }
 
-p {
+p.pg {
 	font-size:25pt;
 	font-weight:bold;
 	letter-spacing:0.025em;
@@ -28,6 +28,23 @@ p {
 	color:#A9A9A9
 	/*color:rgb(0,0,0);A88994*/
 }	
+
+p.categ{
+	font-size:25pt;
+	font-weight:bold;
+	letter-spacing:0.025em;
+	text-align:left;
+	padding-right:40px;
+	max-width:620px;
+	color:#A9A9A9
+
+	
+}
+
+span.wrd{
+	color:#FFFAFA;
+	font-weight:bold;
+}
 
 
 b{
